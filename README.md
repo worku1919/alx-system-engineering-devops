@@ -1,2 +1,3 @@
-# alx-system-engineering-devops
-0x00_basics_shell
+# alx-system-engineering-devop 
+"# alx-system-engineering-devop" >> README.md
+git init
